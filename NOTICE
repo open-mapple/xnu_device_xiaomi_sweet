@@ -1,0 +1,6 @@
+Credits (every upstream author whose work is in the kernel and boot tooling this phone uses; see the kernel repository's
+history for their commits): dipa-studio, damjankakak3, legendxdevil and 2010475745xie (ios-sweet,
+github.com/dipa-studio/ios-sweet, MIT). Board facts here were read from their sources and from Xiaomi's published
+kernel and device trees (GPL; read, not copied).
+
+The kernel (xnu_kernel_qcom_common) is APSL 2.0; everything in this repository is MIT (LICENSE).

@@ -1,0 +1,4 @@
+# Open Mapple defconfig for the Xiaomi Redmi Note 10 Pro (sweet, Qualcomm SM7150 (Snapdragon 732G)): the common Qualcomm kernel's
+# configuration (MASTER.arm64.sweet) and this phone's own. No SoC layer yet: it comes with the second Qualcomm SoC.
+#include common_defconfig
+#include sweet.config

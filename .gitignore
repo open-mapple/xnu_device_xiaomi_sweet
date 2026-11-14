@@ -1,0 +1,12 @@
+# Nothing of Apple's and nothing of the vendor's (LEGAL.md)
+fw-*/
+*.img
+*.ipsw
+*.dmg
+*.apfs
+*.dtb
+*.bin
+*.adt
+*.simg
+__pycache__/
+.DS_Store
